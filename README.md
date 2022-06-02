@@ -1,4 +1,4 @@
-# hand-cricket-game
+# Hand Cricket Game
 # INTRODUCTION
 This game is a tribute to one of my favorite childhood games Hand Cricket. I have played this game for more than a decade, and I am pretty sure everyone in the Indian subcontinent would have heard or played this game at least once. Playing this game in person required a lot of coordination as well as quick mental math to keep track of runs and wickets, and did I mention that it was fun to play? So to bring back those childhood memories, I have created the Hand Cricket App.
 # How To Play
